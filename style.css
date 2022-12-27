@@ -1,0 +1,210 @@
+* 
+{
+    margin: 0;
+}
+.heading 
+{
+    background-color: black;
+    color: white;
+    height: 40px;
+}
+.heading > ul 
+{
+    padding-top: 10px;
+}
+.heading > ul > li 
+{
+    display: inline;
+    margin-right: 40px;
+}
+.trending 
+{
+    color: aqua;
+}
+.signin 
+{
+    float: right;
+    margin-right: 100px;
+    font-weight: bold;
+    margin-top: -30px;
+    color: white;
+}
+.banner 
+{
+    margin-top: 20px;
+    margin-left: 190px;
+}
+.date 
+{
+    margin-left: 100px;
+    font-size: smaller;
+    color: gray;
+    margin-top: 30px;
+    
+}
+.menu > ul > li
+{
+    display: inline;
+    font-size: small;
+    margin-left: 20px;
+    color: rgb(56, 56, 56);
+    font-size: 75%;
+}
+.menu
+{
+    margin-left: 260px;
+    margin-top: -20px;
+    margin-right: 50px;
+}
+.menu .icon
+{
+    font-size: large;
+}
+.section
+{
+    margin-left: 100px;
+    margin-top: 30px;
+    border-style: solid;
+    width: 100px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: gray;
+}
+.logo 
+{
+    margin-left: 350px;
+    margin-top: -30px;
+}
+.menubar > ul > li
+{
+    display: inline;
+    margin-left: 20px;
+    font-size: 90%;  
+}
+.menubar
+{
+    margin-left: 95px;
+    margin-top: 20px;
+    border-top: solid;
+    margin-right: 50px;
+}
+.banner2
+{
+    margin-left: 200px;
+    margin-top: 10px;
+}
+.menubar .ellips
+{
+    font-size: larger;
+}
+.menubar .home
+{
+    color: blue;
+}
+.topnews
+{
+color: crimson;
+margin-left: 100px;
+margin-top: 15px;
+font-weight: bold;
+}
+.news1
+{
+    margin-top: 15px;
+    margin-left: 100px;
+    width: 500px;
+}
+.news1 > img
+{
+    width: 480px;
+}
+.news1 > h3 
+{
+    font-size: 15px;
+}
+.news1 > img
+{
+    margin-top: 5px;
+}
+.news1 > p
+{
+    font-size: 11px;
+}
+.news2
+{
+    margin-left: 627px;
+    margin-top: -360px;
+    width: 450px;
+}
+.news2 > p
+{
+    font-size: 13px;
+    font-weight: 500;
+    margin-left: 90px;
+    margin-top: -43px;
+}
+.news3
+{
+    margin-left: 627px;
+    margin-top: 30px;
+    width: 450px;
+}
+.news3 > p
+{
+    font-size: 13px;
+    font-weight: 500; 
+    margin-left: 90px;
+    margin-top: -43px;
+}
+.news4
+{
+    margin-left: 627px;
+    margin-top: 30px;
+    width: 450px;
+}
+.news4 > p
+{
+    margin-left: 90px;
+    margin-top: -43px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.news5
+{
+    margin-left: 627px;
+    margin-top: 30px;
+    width: 440px;
+}
+.news5 > p
+{
+    margin-left: 90px;
+    margin-top: -43px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.news6
+{
+    margin-left: 627px;
+    margin-top: 30px;
+    width: 440px;
+}
+.news6 > p
+{
+    margin-left: 90px;
+    margin-top: -43px;
+    font-size: 13px;
+    font-weight: 500;
+}
+.add
+{
+    margin-left: 1050px;
+    margin-top: -320px;
+}
+.trend
+{
+    color: crimson;
+margin-left: 1050px;
+margin-top: 29px;
+font-weight: bold;
+font-size: large;
+}
